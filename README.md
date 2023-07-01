@@ -13,18 +13,13 @@
 
   <h3 >Connect With Me</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammed-ridvan-gursoy/)
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ridvangursoy53/)
   <a target="_blank" href="mailto:ridvangursoy@hotmail.com"><img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png"></a>
 
 </div>
   
-<div align="center">
- <img  src="https://github-readme-stats.vercel.app/api?username=rdvngrsy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="170" alt="stats graph" />
- <img  src="https://streak-stats.demolab.com?user=rdvngrsy&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="170" alt="streak graph" />
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rdvngrsy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
+
 
 
 ## My Projects
@@ -171,11 +166,13 @@
      <td align="center">-</td>
     </tr>
    
-    
-    
-    
-    
   </tbody>
 </table>
+
+<div align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=rdvngrsy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="170" alt="stats graph" />
+ <img  src="https://streak-stats.demolab.com?user=rdvngrsy&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="170" alt="streak graph" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rdvngrsy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
 <br>
