@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Gürsoy</h1>
-<h3 align="center" height="150" width="150">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically frontend development. With knowledge in HTML, CSS, JavaScript, and React.js, I am steadily progressing towards becoming a skilled Frontend Developer.</h3>
+<h3 align="center">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically frontend development. With knowledge in HTML, CSS, JavaScript, and React.js, I am steadily progressing towards becoming a skilled Frontend Developer.</h3>
 
-<h3 align="center">Languages and Tools</h3>
+<div align="center">
+  
+  <h3>Languages and Tools</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,postman,git,mongodb,c,vite,linux)](https://skillicons.dev) 
+  
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,postman,git,mongodb,c,vite,linux)](https://skillicons.dev)
+<div align="center">
 
-<h3 align="center">Connect With Me</h3>
+  <h3 >Connect With Me</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-<a target="_blank" href="mailto:ridvangursoy@hotmail.com"><img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png"></a>
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+  <a target="_blank" href="mailto:ridvangursoy@hotmail.com"><img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png"></a>
+
+</div>
+  
 
 
 
