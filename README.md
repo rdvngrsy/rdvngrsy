@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Gürsoy</h1>
-<h3 align="center">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically frontend development. With knowledge in HTML, CSS, JavaScript, and React.js, I am steadily progressing towards becoming a skilled Frontend Developer.</h3>
+<h3 align="center" height="150" width="150">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically frontend development. With knowledge in HTML, CSS, JavaScript, and React.js, I am steadily progressing towards becoming a skilled Frontend Developer.</h3>
 
-## Projects
+<h3 align="center">Languages and Tools</h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,postman,git,mongodb,c,vite,linux)](https://skillicons.dev)
+
+<h3 align="center">Connect With Me</h3>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+<a target="_blank" href="mailto:ridvangursoy@hotmail.com"><img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png"></a>
+
+
+
+## My Projects
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Repo</th>
+      <th scope="col">Project Name</th>
       <th scope="col">Technologies and tools</th>
       <th scope="col">Year</th>
       <th scope="col">Demo</th>
@@ -14,62 +28,62 @@
   <tbody>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/e-commerce-app">E-Commerce App</a></th>
-      <td>React, React Hook, Vite, React Query, React Router, CSS, Tailwind, Redis, Mongodb, </td>
-      <td align="center">2022</td>
-     <td align="center"><a href="https://www.npmjs.com/package/button-user?activeTab=readme">Live</a></td>
+      <td>React, React Hook, Vite, React Query, React Router, CSS, Tailwind, Redis, MongoDB, Postman</td>
+      <td align="center">2023</td>
+     <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/React/006_odev_5">Buttons Custom Hook</a></th>
       <td>React, React Hook, CSS, NPM</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center"><a href="https://www.npmjs.com/package/button-user?activeTab=readme">Live</a></td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/React/005_odev_4">Emoji Search App and Test</a></th>
       <td>React, React Hook, CSS</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
      <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/React/004_odev_3">Weather App</a></th>
       <td>React, React Hook, CSS, Tailwind</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center"><a href="https://rdvngrsy-weatherapp.netlify.app/">Live</a></td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/React/003_odev_2">React To Do List</a></th>
       <td>React, React Hook, CSS</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/React/002_contacts_app">Contact List</a></th>
       <td>React, React Hook, CSS</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/react_projects/tree/main/Projects/004_manage-emp">Employee List Management</a></th>
       <td>React, React Hook, CSS, Bootstrap</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/react_projects/tree/main/Projects/003_my-movies">Movie Website App</a></th>
       <td>React, CSS, Bootstrap</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/react_projects/tree/main/Projects/002_books">Bookfolio</a></th>
       <td>React, React Hook, CSS</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/react_projects/tree/main/Projects/001_begin_react">React Card List</a></th>
       <td>React, CSS</td>
-      <td align="center">2022</td>
+      <td align="center">2023</td>
      <td align="center">-</td>
     </tr>
      <tr>
