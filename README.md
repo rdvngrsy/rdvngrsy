@@ -18,8 +18,12 @@
   <a target="_blank" href="mailto:ridvangursoy@hotmail.com"><img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Email_Shiny_Icon.svg/1024px-Email_Shiny_Icon.svg.png"></a>
 
 </div>
-  
 
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  
+</div>
 
 
 ## My Projects
@@ -169,10 +173,20 @@
   </tbody>
 </table>
 
+
 <div align="center">
  <img  src="https://github-readme-stats.vercel.app/api?username=rdvngrsy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="170" alt="stats graph" />
  <img  src="https://streak-stats.demolab.com?user=rdvngrsy&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="170" alt="streak graph" />
  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rdvngrsy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
+
+<p align="center"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/rdvngrsy/count.svg" />
+</p>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 <br>
