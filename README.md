@@ -21,8 +21,14 @@
 
 <div align="center">
   
-  <img src="https://media3.giphy.com/media/Rhkq4ehWqVX56/giphy.gif?cid=ecf05e47wo4940vkvbts6wcegwnfy0l7ddetm2ydl37byp3y&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="900" >
+  <img src="https://github.com/rdvngrsy/rdvngrsy/blob/main/tbbt.gif" width="1000" height="300">
+  
+  
+</div>
 
+<div align="center">
+  
+  <img src="https://media0.giphy.com/media/hJl9v892gjwLEdHoZv/giphy.gif?cid=ecf05e478vbo7hayrndhcdad8knrad60ckuvog4lce13pya0&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="100">
   
 </div>
 
