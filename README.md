@@ -120,13 +120,13 @@
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/Bootstrap/001_Grid_Adidas_Shop">Adidas Shop V2 Grid</a></th>
       <td>HTML, CSS, JavaScript, Bootstrap</td>
       <td align="center">2022</td>
-     <td align="center">-</td>
+     <td align="center"><a href="https://adidas-shop-v2.netlify.app/">Live</a></td>
     </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/ERA_Tedavi">ERA Tedavi</a></th>
       <td>HTML, CSS, JavaScript</td>
       <td align="center">2022</td>
-     <td align="center">-</td>
+     <td align="center"><a href="https://era-tedavi.netlify.app/">Live</a></td>
     </tr>
      <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/kodluyoruzilkrepo/tree/main/Odevler/JavaScript/004_Asian_Mutfak_Menusu">Asian Kitchens Menu</a></th>
