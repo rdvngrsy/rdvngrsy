@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Gürsoy</h1>
-<h3 align="center">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically frontend development. With knowledge in HTML, CSS, JavaScript, and React.js, I am steadily progressing towards becoming a skilled Frontend Developer.</h3>
+<h3 align="center">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically full stack development. With knowledge in HTML, CSS, SQL, JavaScript, React.js and Java Spring, I am steadily progressing towards becoming a skilled Full Stack Developer.</h3>
 
 <div align="center">
   
