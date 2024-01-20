@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rıdvan Gürsoy</h1>
 <h3 align="center">I graduated from Marmara University Mechatronics Engineering. I have shifted my career focus towards software development, specifically full stack development. With knowledge in HTML, CSS, SQL, JavaScript, React.js and Java Spring, I am steadily progressing towards becoming a skilled Full Stack Developer.</h3>
 
-<div align="center">
+<div float="left" align="center">
   
   <h3>Languages and Tools</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,postman,git,mongodb,c,vite,linux,java,spring,postgresql)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,postman,git,mongodb,c,vite,linux,java,spring,postgresql)](https://skillicons.dev) 
   
 </div>
 
@@ -44,6 +44,12 @@
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <th scope="row"><a href="https://github.com/orgs/DeltaRental/repositories">Rent a Car Project</a></th>
+      <td>Java, Java Spring, Spring Security, JWT, TypeScript, PostgreSQL, React, React Hook, React Router, Redux Toolkit, Formik, Axios, CSS, Tailwind, Swagger, Postman</td>
+      <td align="center">2024</td>
+     <td align="center">-</td>
+    </tr>
     <tr>
       <th scope="row"><a href="https://github.com/rdvngrsy/e-commerce-app">E-Commerce App</a></th>
       <td>React, React Hook, Vite, React Query, React Router, CSS, Tailwind, Redis, MongoDB, Postman</td>
