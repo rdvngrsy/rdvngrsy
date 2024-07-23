@@ -44,6 +44,30 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th scope="row"><a href="https://github.com/rdvngrsy/search-portal">Search Portal</a></th>
+      <td>Typescript, React, React Hook, React Router, Redux Toolkit, Formik, Axios, CSS, Tailwind</td>
+      <td align="center">2024</td>
+      <td align="center"><a href="https://rdvngrsy-search-portal.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/rdvngrsy/x-clone">X-Clone</a></th>
+      <td>React, React Hook, React Router, Redux Toolkit, Formik, Axios, CSS, Tailwind</td>
+      <td align="center">2024</td>
+      <td align="center"><a href="https://x-clone-rdvngrsy.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/rdvngrsy/sneakers-site">Sneaker Site</a></th>
+      <td>React, React Hook, React Router, CSS, Tailwind</td>
+      <td align="center">2024</td>
+      <td align="center"><a href="https://rdvngrsy-sneakers-site.netlify.app/">Live</a></td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://github.com/rdvngrsy/quiz-app">Quiz App</a></th>
+      <td>React, React Hook, Redux Toolkit, React Router, CSS, Tailwind</td>
+      <td align="center">2024</td>
+      <td align="center"><a href="https://rdvngrsy-quiz-app.netlify.app/">Live</a></td>
+    </tr>
      <tr>
       <th scope="row"><a href="https://github.com/orgs/DeltaRental/repositories">Rent a Car Project</a></th>
       <td>Java, Java Spring, Spring Security, JWT, TypeScript, PostgreSQL, React, React Hook, React Router, Redux Toolkit, Formik, Axios, CSS, Tailwind, Swagger, Postman</td>
